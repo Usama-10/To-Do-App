@@ -1,0 +1,12 @@
+button{
+    padding: 10px;
+    background-color: green;
+    color: gold;
+    margin-left: 10px;
+    border: 0;
+    border-radius: 10%;
+    margin-top: 20px;
+}
+li{
+    color: white;
+}
